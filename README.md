@@ -1,1 +1,1 @@
-# Read
+Hi, I’m @ShreeDriSh, I’m creating a Open Source GIS solution from scratch with focus on remote sensing and satellite image processing. I’m looking to collaborate on the same. You can reach me at shreedrish.prakash@gmail.com
